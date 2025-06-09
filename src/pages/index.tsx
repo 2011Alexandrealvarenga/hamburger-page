@@ -1,7 +1,10 @@
+import React from "react";
+import MeuComponente from "@/components/part-sites/itens-har";
+
 export const Main = () =>{
   return(
-    <div className="">
-      <p>teste asdf</p>
+    <div>
+      <MeuComponente />
     </div>
   )
 }
