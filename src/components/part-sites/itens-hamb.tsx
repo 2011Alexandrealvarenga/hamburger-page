@@ -6,6 +6,9 @@ import imagem3 from '../../assets/img/hamb-3.png';
 const MeuComponente: React.FC = () => {
   return (
     <div id="main">  
+      <div className="container mx-auto text-center m-5 pt-5">
+        <h2 className='font-bold text-2xl'>Conheça nosso meu</h2>
+      </div>
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2">
 

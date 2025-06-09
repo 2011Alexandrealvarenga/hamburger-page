@@ -1,6 +1,7 @@
 import React from "react";
-import MeuComponente from "@/components/part-sites/itens-har";
+import MeuComponente from "@/components/part-sites/itens-hamb";
 import { HeaderSection } from "@/components/part-sites/header";
+import { Footer } from "@/components/part-sites/footer";
 
 
 export const Main = () =>{
@@ -8,6 +9,7 @@ export const Main = () =>{
     <div>
       <HeaderSection />
       <MeuComponente />
+      <Footer />
     </div>
   )
 }
