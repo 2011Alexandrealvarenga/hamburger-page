@@ -12,7 +12,7 @@ const MeuComponente: React.FC = () => {
   return (
     <div id="main">  
       <div className="container mx-auto text-center m-5 pt-5">
-        <h2 className='font-bold text-2xl'>Conheça nosso meu</h2>
+        <h2 className='font-bold text-2xl'>Conheça nosso menu</h2>
       </div>
       <div className="container mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2">
@@ -26,7 +26,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 21,00</p>
+                <p className='font-bold'>R$ 21,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -42,7 +42,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 20,00</p>
+                <p className='font-bold'>R$ 20,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -58,7 +58,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -73,7 +73,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -88,7 +88,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -103,7 +103,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -118,7 +118,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>
@@ -133,7 +133,7 @@ const MeuComponente: React.FC = () => {
             <div className='p-2  content-center'>
               <p>Pão levinho de fermentação natural da trigou, burder 160g, queijo prato e maionese da casa.</p>
               <div className='mt-3 flex justify-between rounded-sm'>
-                <p className='font-bold'>Preço R$ 23,00</p>
+                <p className='font-bold'>R$ 23,00</p>
                 <button className="btn bg-green-700 text-white rounded-md p-2 cursor-pointer">Comprar</button>
               </div>
             </div>

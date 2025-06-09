@@ -3,7 +3,7 @@ import Imgdrink2 from '../../assets/img/refri-2.png';
 
 export const Drink = () =>{
   return(
-    <div id="bebidas">
+    <div id="bebidas" className='mb-30'>
       <div className="container mx-auto text-center m-5 pt-5">
         <h2 className='font-bold text-2xl'>Bebidas</h2>
       </div>    
